@@ -1,3 +1,5 @@
+package conditionals.conditionalsifelse;
+
 public class IncomeTax {
     public static void main(String[] args) {
         double salary = 2000F;

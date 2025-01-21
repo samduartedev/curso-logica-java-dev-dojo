@@ -1,3 +1,5 @@
+package conditionals.conditionalsifelse;
+
 public class OddOrEven {
     public static void main(String[] args) {
         int number = 25;

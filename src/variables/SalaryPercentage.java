@@ -1,3 +1,5 @@
+package variables;
+
 public class SalaryPercentage {
     public static void main(String[] args) {
         float salary = 2500.00F;

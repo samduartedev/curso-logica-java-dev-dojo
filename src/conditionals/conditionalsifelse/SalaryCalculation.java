@@ -1,3 +1,5 @@
+package conditionals.conditionalsifelse;
+
 public class SalaryCalculation {
     public static <string> void main(String[] args) {
         float salary = 4200F;

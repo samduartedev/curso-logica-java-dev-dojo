@@ -1,3 +1,5 @@
+package variables;
+
 public class ReusingVariables {
     public static void main (String[] args){
         float salary = 5000;
